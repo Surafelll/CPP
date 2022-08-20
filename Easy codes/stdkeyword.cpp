@@ -14,9 +14,10 @@ int main()
    std::cout<<name;
    
    int age;
+   std::cout<<"enter your age";
    
    std::cin>>age;
-  
+   std::cout<<"your age is \n"<<age;
 
    
    return 0;
