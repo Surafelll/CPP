@@ -13,5 +13,11 @@ int main()
    
    std::cout<<name;
    
+   int age;
+   
+   std::cin>>age;
+  
+
+   
    return 0;
 }
