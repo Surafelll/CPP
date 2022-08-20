@@ -8,6 +8,10 @@ int main()
    //Hello world will display
    
    std::string name="surafel";
+
+   std::cout<<std::endl;
+   
+   std::cout<<name;
    
    return 0;
 }
