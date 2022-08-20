@@ -7,7 +7,7 @@ int main()
    std::cout << "Hello world";
    //Hello world will display
    
-   string name="surafel";
+   std::string name="surafel";
    
    return 0;
 }
