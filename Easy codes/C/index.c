@@ -3,6 +3,9 @@
 
 int main ()
 {
-    printf("hello,world");
+    int x=5,y=7;
+    int sum=x+y;
+    // printf("hello,world");
+    printf ("%d");
     return 0;
 }
