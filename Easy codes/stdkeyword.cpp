@@ -2,5 +2,5 @@
 
 void main()
 {
-   cout<<"Hello world"; 
+   std::cout<<"Hello world"; 
 }
