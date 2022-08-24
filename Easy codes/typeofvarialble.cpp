@@ -16,12 +16,11 @@ int main()
     cout << "your special character on variable is : " << z << endl;
 
     bool p = true;
-    cout << p;//output is 1
+    cout << p; // output is 1
 
-    bool w=false;
-    cout<<w;
+    bool w = false;
+    cout << w;
 
-    string name="Sura";
-    cout<
-
+    string name = "Sura";
+    cout << "your name is : " << name;
 }
