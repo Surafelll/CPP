@@ -11,6 +11,7 @@ int main()
     cout<<"The value you stored in variable is : "<<x;
 
     double y=3.14;
+    cout<<"The value of you give for variable is :" << y;
 
 
 
