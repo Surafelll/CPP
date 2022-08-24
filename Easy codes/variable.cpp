@@ -5,7 +5,7 @@ int main()
     std::cin >> x;  // input from user and will change the output while on run time
     std::cout << x; // display
 
-    bool y = false;//bool  data type true is 1 and false is 0
+    bool y = false; // bool  data type true is 1 and false is 0
     std::cout << "\n"
               << y;
 
