@@ -13,5 +13,8 @@ int main()
     cout << "The value of you give for variable y is :" << y << endl;
 
     char z = 'x';
-    cout << "your special character on variable is : " << z;
+    cout << "your special character on variable is : " << z << endl;
+
+    bool p = true;
+    cout << p;//output is 1
 }
