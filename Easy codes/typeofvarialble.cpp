@@ -17,4 +17,8 @@ int main()
 
     bool p = true;
     cout << p;//output is 1
+
+    bool w=false;
+    cout<<w;
+    
 }
