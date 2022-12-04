@@ -4,11 +4,11 @@ int main()
 {
     cout << "This program is working on sum of two number \n ";
     int num1, num2, sum;
-    cout << "first number";
+    cout << "first number =";
     cin >> num1;
-    cout << "second number";
+    cout << "second number =";
     cin >> num2;
     sum = num1 + num2;
-    cout << sum;
+    cout << "sum is =" << sum;
     return 0;
 }
