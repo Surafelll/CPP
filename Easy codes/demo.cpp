@@ -3,5 +3,5 @@ using namespace std;
 int main()
 {
         cout<<"Hello demo";
-    return 0;
+    // we can skip the return part tho
 }
