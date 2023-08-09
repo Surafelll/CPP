@@ -18,11 +18,7 @@ int main(){
        cout<<endl<<"bye";
         }
 
-
-    
-
-    
     return 0;
-    
+
     
 }
