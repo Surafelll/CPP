@@ -11,13 +11,14 @@ int main()
     cout<<"\t\t\tenter your 4 digit atm password";
     int pass=1234;
     cin>>pass;
-    if ( pass=1234)
+    if ( int pass=1234)
     {
         cout<<"yes";
     }
-    else
+    if( pass=!1234)
     {
-        return 2;
+        cout<<"wewe";
+        
     }
     
     
