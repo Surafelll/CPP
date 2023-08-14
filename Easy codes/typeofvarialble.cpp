@@ -23,4 +23,12 @@ int main()
 
     string name = "Sura";
     cout << "your name is : " << name;
+
+    int i;
+    i = 21;
+    cout << "declaring " << i;
+
+    int l=200;
+    i=300;
+    cout<<"\n"<<i;
 }
