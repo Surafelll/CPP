@@ -11,5 +11,6 @@ int main()
 //simply curly brace beguin and ending
 std::cout<<"Hello ";
 //std is standardize the object class.....
+//cout is object that can help to print something 
 
 }
