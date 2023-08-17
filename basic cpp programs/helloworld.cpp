@@ -9,5 +9,6 @@ int main()
 //() is parentheses optionally include parameter
 {
 //simply curly brace beguin and ending
+std::cout<<"Hello ";
 
 }
