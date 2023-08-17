@@ -14,4 +14,4 @@ std::cout<<"Hello ";
 //cout is object that can help to print something 
 
 }
-
+//ending curly brace is define the function is closed
