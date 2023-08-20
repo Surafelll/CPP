@@ -5,9 +5,14 @@ using namespace std;
 int main()
 
 {
-    signed  int x=2;
+    signed  int x;
+    x =-2;
+    cout<<"\n\t | The value is : "<<x<<endl;
 
-    cout<<"th value is : "<<x;
 
+
+    unsigned y;
+    y=2;
+    cout<<"\n\t | The value of y is : " << y;
 } 
 
