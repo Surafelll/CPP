@@ -14,5 +14,8 @@ int main()
     unsigned y;
     y=2;
     cout<<"\n\t | The value of y is : " << y;
+
+    //unsigned is only support positive value
+    
 } 
 
