@@ -20,7 +20,16 @@ int main()
 
     char a;
     a = 'A';
-    cout << "\n\t | The character value of a is : "<<a;
+    cout << "\n\t | The character value of a is : " << a;
 
-    return (0);
+    bool F;
+    bool T;
+   T=true;
+   F=false;
+    
+
+            return(0);
+            
+
+    
 }
