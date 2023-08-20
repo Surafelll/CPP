@@ -2,9 +2,12 @@
 
 using namespace std;
 
-void main()
+int main()
 
 {
-    
+    signed  int x=2;
+
+    cout<<"th value is : "<<x;
+
 } 
 
