@@ -32,8 +32,24 @@ int main()
     cout<<"\n\t | The boolean value for false is : "<<F;
     
 
+    /*void datatype is a primitive data type.But it doesn't contain any value
+    
+    it use :
+                1.represent absences of value
+                2.function does't have any return value
+                void printmsg()
+                {
+                printf("Hello World");
+                }
+
+                3.declare a pointer that can point to any datatype
+                void* pointer;
+                4.to cast an expression to a type that does not exist
+    */  
+
             return(0);
-            
+           
 
     
 }
+
