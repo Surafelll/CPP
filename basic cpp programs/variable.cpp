@@ -24,8 +24,12 @@ int main()
 
     bool F;
     bool T;
-   T=true;
-   F=false;
+    
+    T=true;
+    F=false;
+    
+    cout<<"\n\t | The boolean value for true is : "<<T;
+    cout<<"\n\t | The boolean value for false is : "<<F;
     
 
             return(0);
