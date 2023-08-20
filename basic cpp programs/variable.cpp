@@ -11,10 +11,11 @@ int main()
 
     double y;
     // float variable declaration and initialization.
-    y = 10.234f; // floating point data type
+    y = 1.123456768967767; // floating point data type
     cout << "\n\t | The floating value of y is: " << y;
 
-
-
+    float z;
+    z = 1.1234567;
+    cout << "\n\t |  The decimal value of z is:" << z;
     return 0;
 }
