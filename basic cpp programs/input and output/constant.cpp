@@ -8,12 +8,8 @@ using namespace std;
 {
 
    const int x=8;
-   cin >> x;
+//    cin >> x;
 //try to modify it but face to error
-
-  
-   
-
-
+cout<<x;
 
 }
