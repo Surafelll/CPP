@@ -9,6 +9,6 @@ main()
 
     cerr<<"Message to display error"<<endl;
     
-    
+    clog<<"Message to display general information";
 } 
 
