@@ -9,6 +9,7 @@ main()
 
     cerr<<"Message to display error"<<endl;
     
-    clog<<"Message to display general information";
+    clog<<"Message to display general information"<<endl;
+    clog.flush();//bufferring manually
 } 
 
