@@ -4,5 +4,6 @@
     "*.embeddedhtml": "html",
     "iostream": "cpp",
     "*.tcc": "cpp"
-  }
+  },
+  "cSpell.words": ["fout"]
 }
